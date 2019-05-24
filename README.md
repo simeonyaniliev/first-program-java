@@ -18,15 +18,16 @@ https://www.youtube.com/watch?v=lRNwvhACfpA&t=138s
 Github:  
 https://github.com/simeonyaniliev/first-lines-java  
 
-## 4. Once there, we need to write the some code in there:
+## 4. Once there, we need to write the some code.
 
-### 4.1 Lets write the "WoW" section of our program and click the "Run" button:
+### 4.1 Lets write the "WoW" section of our program and click the "Run" button:  
 
-// This is how you define a class in Java:
+```java
+/* This is how you define a class in Java:*/
 public class Main
 {
 	// This is how you define a method in Java:
-	// Note this is the main method the starting point of a program in Java
+	// Note: this is the main method the starting point of a program in Java
 	public static void main(String[] args)  {
 	
 		// console execution paragraph starts
@@ -38,8 +39,12 @@ public class Main
 		// console execution paragraph ends
 	}
 }
+```
 
-### 4.1 Lets write the "Hi" section and click "Run" button:
+### 4.1 Lets write the "Hi" section and click "Run" button:  
+
+
+```java
 public class Main
 {
 	public static void main(String[] args)  {
@@ -58,8 +63,12 @@ public class Main
 		// console execution paragraph ends
 	}
 }
+```
 
 ### 4.1 Lets write the "Authenticate" section and click "Run" button:
+
+
+```java
 public class Main
 {
 	public static void main(String[] args)  {
@@ -89,6 +98,7 @@ public class Main
 
 	}
 }
+```
 
 ## 5. What to do next if I want to become Java developer.
 ## 5.1. Go for example to: http://www.tutorialspoint.com/java/
