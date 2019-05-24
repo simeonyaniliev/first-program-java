@@ -12,8 +12,11 @@ https://www.onlinegdb.com/
 ## 2. And then we need make sure Java is selected from the top drop down menu, where all the programing languages are.
 
 ### 2.1. For more info on how to use this online development environment, plus super short intro on classes, methods and main methods in Java check my first tutorial in this series:
-Write your first lines of Java code right NOW, in less than 5 minutes:
-https://github.com/simeonyaniliev/first-lines-java
+Write your first lines of Java code right NOW, in less than 5 minutes:  
+YouTube:  
+https://www.youtube.com/watch?v=lRNwvhACfpA&t=138s  
+Github:  
+https://github.com/simeonyaniliev/first-lines-java  
 
 ## 4. Once there we need to write the some code in there:
 
