@@ -23,10 +23,10 @@ https://github.com/simeonyaniliev/first-lines-java
 ### 4.1 Lets write the "WoW" section of our program and click the "Run" button:  
 
 ```java
-/* This is how you define a class in Java:*/
+/* "public class Main {}" - This is how you define a class in Java:*/
 public class Main
 {
-	// This is how you define a method in Java:
+	// "public static void main() {} " - This is how you define a method in Java:
 	// Note: this is the main method the starting point of a program in Java
 	public static void main(String[] args)  {
 	
