@@ -1,7 +1,7 @@
 # Create your first Simple Java Program right NOW, in less than 5 minutes
 
-We will create Java program that will ask the user to enter his first name, and hist last name. 
-And the program will use them as super basic authentication mechanism. Plus some more fun stuff, up to us :)
+We will create Java program that will ask the user to enter his first name, and his last name. 
+And the program will use that data for the user as super basic authentication mechanism. Plus some more fun stuff, up to us :)
 
 Lets do it in few simple steps:
 ## 1. First we need go to this website (we will use it as online development environment):
