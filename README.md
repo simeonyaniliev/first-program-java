@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=lRNwvhACfpA&t=138s
 Github:  
 https://github.com/simeonyaniliev/first-lines-java  
 
-## 4. Once there, we need to write the some code.
+## 4. Once there, we need to write some code.
 
 ### 4.1 Lets write the "WoW" section of our program and click the "Run" button:  
 
