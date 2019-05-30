@@ -20,7 +20,7 @@ https://github.com/simeonyaniliev/first-lines-java
 
 ## 4. Once there, we need to write some code.
 
-### 4.1 Lets write the "WoW" section of our program and click the "Run" button:  
+### 4.1 Lets write or copy the "WoW" section of our program and click the "Run" button:  
 
 ```java
 /* "public class Main {}" - This is how you can define a class in Java:*/
@@ -41,7 +41,7 @@ public class Main
 }
 ```
 
-### 4.1 Lets write the "Hi" section and click "Run" button:  
+### 4.1 Lets write or copy the "Hi" section and click "Run" button:  
 
 
 ```java
@@ -65,7 +65,7 @@ public class Main
 }
 ```
 
-### 4.1 Lets write the "Authenticate" section and click "Run" button:
+### 4.1 Lets write or copy the "Authenticate" section and click "Run" button:
 
 
 ```java
