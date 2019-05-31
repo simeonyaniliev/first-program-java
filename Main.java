@@ -22,7 +22,7 @@ public class Main
 	        System.out.print("To authenticate, enter your last name:  ");
 	        String lastName = System.console().readLine();
 	
-		If (lastName.equals("Iliev"))  {  // write your own family name here
+		if (lastName.equals("Iliev"))  {  // write your own family name here
 	        	System.out.println("Regards boss: " + lastName);
 		} else {
 		     	System.out.println("Regards : " + lastName);
