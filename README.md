@@ -105,4 +105,13 @@ public class Main
 or to: https://www.w3schools.com/java  or find another good online Java tutorial or educational material and follow it.
 Or using application on your phone (super nice option), like this one: https://www.sololearn.com/
 ## 5.2 Check my other tutorials that will follow up on the topic
-
+# What did we learned in this tutorial
+Link to the tutorial in YouTube: https://www.youtube.com/watch?v=RsPv260u5Bg
+1. How to work with the Java IDE in https://www.onlinegdb.com/;
+1.1. IDE means Integrated Development Environment.
+2. Basic insights on Java classes.
+3. Basic insights on Java methods.
+4. Basic insights on Java main method.
+5. Basic insights on how to print text in the console.
+6. Basic insights on if statements in Java.
+7. How to execute code in https://www.onlinegdb.com/;
