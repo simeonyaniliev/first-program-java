@@ -102,7 +102,7 @@ public class Main
 
 ## 5. What to do next if I want to become Java developer.
 ## 5.1. Go for example to this website: http://www.tutorialspoint.com/java/
-or to: https://www.w3schools.com/java/ or find another good online Java tutorial or educational material and follow it.
+or to: https://www.w3schools.com/java  or find another good online Java tutorial or educational material and follow it.
 Or using application on your phone (super nice option), like this one: https://www.sololearn.com/
 ## 5.2 Check my other tutorials that will follow up on the topic
 
