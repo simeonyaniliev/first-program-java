@@ -41,7 +41,7 @@ public class Main
 }
 ```
 
-### 4.1 Lets write or copy the "Hi" section and click "Run" button:  
+### 4.2 Lets write or copy the "Hi" section and click "Run" button:  
 
 
 ```java
@@ -65,7 +65,7 @@ public class Main
 }
 ```
 
-### 4.1 Lets write or copy the "Authenticate" section and click "Run" button:
+### 4.3 Lets write or copy the "Authenticate" section and click "Run" button:
 
 
 ```java
